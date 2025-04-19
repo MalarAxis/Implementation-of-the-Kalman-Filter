@@ -1,6 +1,6 @@
 # 📍 Extended Kalman Filter: 2D Range-Bearing Tracking
 
-This repository contains a simulation of a 2D tracking problem using the **Extended Kalman Filter (EKF)** with **nonlinear measurements** (range and bearing).
+This repository contains a simulation of a 2D tracking problem using the **Extended Kalman Filter (EKF)** with **nonlinear measurements**.
 
 ## 🧠 Project Overview
 
