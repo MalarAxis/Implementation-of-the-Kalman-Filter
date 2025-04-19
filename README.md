@@ -4,7 +4,7 @@ This repository contains a simulation of a 2D tracking problem using the **Exten
 
 ## 🧠 Project Overview
 
-- 📌 Track a moving object in 2D using noisy range and bearing measurements.
+- 📌 Track a moving object in 2D using noisy data.
 - 🧮 Estimate position and velocity via an EKF.
 - 📈 Visualize estimation accuracy, uncertainties, and trajectory.
 
