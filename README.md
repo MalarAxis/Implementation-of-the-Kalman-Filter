@@ -10,13 +10,11 @@ This repository contains a simulation of a 2D tracking problem using the **Exten
 
 ## 📂 Contents
 
-- `kalman_filter_simulation.m`: Main MATLAB script implementing the EKF.
+- `Kalman_filter.m`: Main MATLAB script implementing the EKF.
 - `EKF_Theory_and_Analysis.ipynb`: Interactive Jupyter notebook with:
   - Mathematical derivation
   - Step-by-step explanation
   - Visualizations and insights
-- `/figures`: Saved plots from the simulation (optional)
-- `README.md`: Project summary and usage instructions
 
 ## 📋 Requirements
 
@@ -31,7 +29,7 @@ This repository contains a simulation of a 2D tracking problem using the **Exten
     cd kalman-ekf-tracker
     ```
 
-2. Open `kalman_filter_simulation.m` in MATLAB.
+2. Open `Kalman_filter.m` in MATLAB.
 
 3. Run the script to simulate and generate all plots.
 
