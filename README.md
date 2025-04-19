@@ -44,7 +44,7 @@ This repository contains a simulation of a 2D tracking problem using the **Exten
 
 ## 📓 Learn More
 
-For full theory, derivations, and visual breakdowns, check the 📘 `EKF_Theory_and_Analysis.ipynb` notebook.
+For full theory, derivations, and visual breakdowns, check the 📘 [EKF_Theory_and_Analysis.ipynb](docs/EKF_Theory_and_Analysis.ipynb) notebook.
 
 ## 📬 Contact
 
